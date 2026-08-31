@@ -11,7 +11,7 @@
   </h4>
   <p>
     <span style="font-size: 1.2em; font-weight: bold;">🔗 Live Demo:</span>
-    <a href="https://a-coderr.github.io/portfolio-website/" target="_blank">
+    <a href="https://adithya642.github.io/My_Portfolio/" target="_blank">
       Aditya Reddy
     </a>
   </p>
@@ -71,8 +71,8 @@ To run this project locally, follow these steps:
 ### Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/A-coderr/three_portfolio.git
-   cd three_portfolio
+   git clone https://github.com/Adithya642/My_Portfolio.git
+   cd My_Portfolio
    ```
 2. **Install dependencies**
    ```sh
@@ -92,10 +92,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <div align="center"> 
    <h3>📩 Connect with Me ⬇️</h3>
    <h4>I’m actively looking for new opportunities! If you're a recruiter or hiring manager, feel free to reach out.</h4>
-   <a href="https://www.linkedin.com/in/anzhelikakostyuk/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-anzhelikakostyuk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+   <a href="https://www.linkedin.com/in/adithyakasarla" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-adithyakasarla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
    </a>
-   <a href="https://github.com/A-coderr" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-A--coderr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+   <a href="https://github.com/Adithya642" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-Adithya642-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
    </a>
 </div>

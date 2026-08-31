@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://a-coderr.github.io/portfolio-website/sitemap.xml
+Sitemap: https://adithya642.github.io/My_Portfolio/sitemap.xml
