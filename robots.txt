@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://adithya642.github.io/My_Portfolio/sitemap.xml
